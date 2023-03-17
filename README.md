@@ -1,2 +1,5 @@
-# WebProyect-PetShop
-Página Web con la finalidad de aplicar Validaciones en JS y utilización de Json server
+```js
+json-server --watch db.json
+```
+
+Browser sync: browser-sync start --server --file . --host --port 5000 --startPath screens/lista_cliente.html
